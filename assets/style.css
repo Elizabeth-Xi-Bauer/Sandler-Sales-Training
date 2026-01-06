@@ -1,13 +1,12 @@
-
 :root{
-  --primary:#0a5cff;
-  --accent:#00c2a8;
-  --bg:#f8fafc;
-  --card:#ffffff;
-  --text:#111827;
-  --muted:#6b7280;
-  --radius:16px;
-  --shadow:0 10px 24px rgba(15,23,42,.12);
+  --primary:#212121;        /* Charcoal black – authority, editorial */
+  --accent:#ff8255;         /* Coral – contemporary, human, EXB signature */
+  --bg:#efeee8;             /* Warm off-white – gallery wall tone */
+  --card:#ffffff;           /* Clean white surfaces */
+  --text:#212121;           /* Strong readable body text */
+  --muted:#6f6f6f;          /* Soft neutral grey for secondary text */
+  --radius:14px;            /* Slightly tighter, more refined */
+  --shadow:0 8px 20px rgba(33,33,33,.08);
 }
 *{box-sizing:border-box}
 html,body{
